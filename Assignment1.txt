@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      color: #333333;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    .section h2 {
+      color: #666666;
+      margin-bottom: 10px;
+    }
+
+    .section p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Kaushal Jogi</h1>
+  <p>Software Engineer</p>
+
+  <div class="section">
+    <h2>Contact Information</h2>
+    <p>Email: jogikaushal2001@gmail.com</p>
+    <p>Phone: 7744828119</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p>Bachelor of Science in Computer Science</p>
+    <p>Walchand Institute of technology, 2020-2024</p>
+  </div>
+
+  <div class="section">
+    <ul>
+      <li>Developed and maintained web applications</li>
+      <li>Collaborated with cross-functional teams</li>
+      <li>Implemented new features and enhancements</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML/CSS</li>
+      <li>Java</li>
+      <li>Python</li>
+      <li>Java</li>
+      <li>Git</li>
+    </ul>
+  </div>
+</body>
+</html>
